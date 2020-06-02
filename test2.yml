@@ -5,3 +5,4 @@ vars:
 tasks:
   - name: task1
     command: echo "hi1"
+    command: echo "hiii2"
