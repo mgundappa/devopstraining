@@ -1,7 +1,0 @@
----
-hosts: localhost
-vars:
-  var1: value1
-tasks:
-  - name: task1
-    command: echo "hi1"
